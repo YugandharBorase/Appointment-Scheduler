@@ -1,0 +1,47 @@
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\C969Jesse.exe.config
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\C969Jesse.exe
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\C969Jesse.pdb
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\BouncyCastle.Crypto.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\Google.Protobuf.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\K4os.Compression.LZ4.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\K4os.Hash.xxHash.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\MySql.Data.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\MySqlConnector.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.Buffers.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.IO.Pipelines.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.Memory.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.Numerics.Vectors.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\ZstdSharp.dll
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\BouncyCastle.Crypto.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\Google.Protobuf.pdb
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\Google.Protobuf.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\K4os.Compression.LZ4.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\K4os.Hash.xxHash.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\MySql.Data.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\MySqlConnector.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.Buffers.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.IO.Pipelines.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.Memory.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.Numerics.Vectors.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\obj\Debug\Appointment Manager.csproj.AssemblyReference.cache
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\obj\Debug\C969Jesse.Components.AppointmentForm.resources
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\obj\Debug\C969Jesse.Components.CustomerForm.resources
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\obj\Debug\C969Jesse.Login.resources
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\obj\Debug\C969Jesse.Appointment.resources
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\obj\Debug\C969Jesse.Properties.Resources.resources
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\obj\Debug\Appointment Manager.csproj.GenerateResource.cache
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\obj\Debug\Appointment Manager.csproj.CoreCompileInputs.cache
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\obj\Debug\Appointm.DF4B0348.Up2Date
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\obj\Debug\C969Jesse.exe
+C:\STUDY\Projects\Dotnet\Appointment 2\C969Jesse\obj\Debug\C969Jesse.pdb
